@@ -1,4 +1,4 @@
-module UpdateVendorTest
+module github.com/KunwuLuan/UpdateVendorTest
 
 go 1.18
 
